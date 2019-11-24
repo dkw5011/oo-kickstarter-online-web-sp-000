@@ -16,5 +16,7 @@ end
 
 def add_backer
   backer.backed_projects << self
+end
+
 
 end
